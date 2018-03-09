@@ -93,6 +93,7 @@ module.exports = function(grunt) {
 		connect: {
 			server: {
 				options: {
+                    hostname: 'localhost',
 					port: port,
 					base: root,
 					livereload: true,
@@ -164,7 +165,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-retire' );
 	grunt.loadNpmTasks( 'grunt-sass' );
 	grunt.loadNpmTasks( 'grunt-zip' );
-	
+
 	// Default task
 	grunt.registerTask( 'default', [ 'css', 'js' ] );
 
