@@ -1,0 +1,29 @@
+.sm {
+    font-size: 0.9em !important;
+}
+
+.sm2 {
+    font-size: 0.8em !important;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.col { flex: 1; }
+.col2 { flex: 2; }
+.col3 { flex: 3; }
+
+.fixed-width {
+    width: 700px;
+}
+
+.no-border {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.no-color {
+    background-color: #222 !important;
+}
