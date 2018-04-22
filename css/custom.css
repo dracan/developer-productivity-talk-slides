@@ -27,3 +27,17 @@
 .no-color {
     background-color: #222 !important;
 }
+
+#sticky-twitter {
+    position: fixed;
+    left: 4%;
+    bottom: 4%;
+    color: grey;
+}
+
+#sticky-hashtag {
+    position: fixed;
+    right: 4%;
+    bottom: 4%;
+    color: grey;
+}
