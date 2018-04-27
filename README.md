@@ -4,7 +4,7 @@ This is the source code for the slides from my Developer Productivity talk that 
 
 They have been built using [Reveal.js](https://revealjs.com/#/), and the `index.html` is the main file with the slide details.
 
-I've published these to Azure which can [be found here](http://developer-productivity-talk-dddsw-2018.azurewebsites.net/#/31).
+I've published these to Azure which can [be found here](http://developer-productivity-talk-dddsw-2018.azurewebsites.net/).
 
 ## Tools referenced in the talk
 
